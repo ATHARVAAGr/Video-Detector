@@ -10,8 +10,8 @@ function preload()
 
 function setup()
 {
-    canvas=createCanvas(700,500);
-    canvas.position(450,130);
+    canvas=createCanvas(600,400);
+    canvas.position(520,180);
 }
 
 function draw()
